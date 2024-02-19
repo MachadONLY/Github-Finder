@@ -1,0 +1,31 @@
+.user {
+  display: flex;
+  align-items: center;
+  background-color: #1c242c;
+  padding: 2rem;
+  border-radius: 1rem;
+  gap: 2rem;
+}
+
+.user h2 {
+  color: #fff;
+  margin-bottom: 1.5rem;
+}
+
+.user p {
+  margin-bottom: .4rem;
+}
+
+.user link {
+  color: #fff;
+}
+
+.user img {
+  width: 100%; 
+  max-width: 200px; 
+  height: auto; 
+  border-radius: 50%;
+}
+
+
+

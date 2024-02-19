@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Kode Mono", monospace;
+}
+
+body {
+  background-color: #04040c;
+  padding: 2rem;
+}
+
+p {
+  text-align: center;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
